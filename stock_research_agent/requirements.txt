@@ -1,0 +1,5 @@
+anthropic>=0.50.0
+akshare>=1.16.0
+yfinance>=1.5.0
+httpx>=0.25.0
+lxml>=5.0.0
